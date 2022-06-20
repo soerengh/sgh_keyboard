@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name "keebio")(type "Legacy")(uri "/home/soeren/.local/share/kicad/6.0/symbols/keebio-components-master/keebio.lib")(options "")(descr ""))
-  (lib (name "Hasu")(type "Legacy")(uri "/home/soeren/.local/share/kicad/6.0/symbols/kicad_lib_tmk-master/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name "keebio")(type "KiCad")(uri "/home/soeren/.local/share/kicad/6.0/symbols/keebio-components-master/keebio.kicad_sym")(options "")(descr ""))
+  (lib (name "Hasu")(type "KiCad")(uri "/home/soeren/.local/share/kicad/6.0/symbols/kicad_lib_tmk-master/keyboard_parts.kicad_sym")(options "")(descr ""))
 )
