@@ -2,6 +2,10 @@ First attempt at a custom split KB.
 
 # WIP
 
+![Keyboard Layout](https://github.com/soerengh/sgh_keyboard/blob/main/keyboard-layout.jpg)
+
+
+
 ## Goals
 
 - Elite C Microcontroller
